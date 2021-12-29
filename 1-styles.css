@@ -428,6 +428,17 @@ button:active {
   .hero-section--img {
     background-position: -30rem 0rem;
   }
+
+  /* SECTION what we do
+  ------------*/
+  .we-do-section__lower {
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+  }
+  .we-do-section__lower .lower-box {
+    max-width: 24rem;
+  }
 }
 
 /* Responsive 480px
